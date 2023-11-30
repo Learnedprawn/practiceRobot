@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20231130 10:54:08.396" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\ASUS\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Archive Folder With Zip">
+<arg>c:\\Users\\ASUS\\Desktop\\Robots\\level_2_robot${/}temp</arg>
+<arg>${OUTPUT_DIR}${/}PDFs.zip</arg>
+<msg timestamp="20231130 10:54:24.463" level="FAIL">No keyword with name 'Archive Folder With Zip' found.</msg>
+<status status="FAIL" starttime="20231130 10:54:24.463" endtime="20231130 10:54:24.463"/>
+</kw>
+<kw name="Archive Folder With Zip">
+<arg>c:\\Users\\ASUS\\Desktop\\Robots\\level_2_robot${/}temp</arg>
+<arg>${OUTPUT_DIR}${/}PDFs.zip</arg>
+<msg timestamp="20231130 10:55:01.665" level="FAIL">No keyword with name 'Archive Folder With Zip' found.</msg>
+<status status="FAIL" starttime="20231130 10:55:01.665" endtime="20231130 10:55:01.665"/>
+</kw>
+<status status="PASS" starttime="20231130 10:54:08.459" endtime="20231130 10:55:44.852"/>
+</kw>
+<status status="PASS" starttime="20231130 10:54:08.459" endtime="20231130 10:55:44.852"/>
+</test>
+<status status="PASS" starttime="20231130 10:54:08.396" endtime="20231130 10:55:44.853"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
